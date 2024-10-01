@@ -1,4 +1,4 @@
-ClasicToQuantum: Simulación de Experimentos de Doble Rendija
+###ClasicToQuantum: Simulación de Experimentos de Doble Rendija
 Este proyecto contiene tres simulaciones del famoso experimento de doble rendija, en tres contextos diferentes: clásico probabilístico, cuántico, y basado en ondas. A continuación se describe lo que se realizó en cada ejercicio.
 
 Ejercicio 1: Simulación de Doble Rendija Probabilística
